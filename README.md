@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/SEU-USERNAME-DO-GITHUB-AQUI">
+  <a href="https://github.com/GuiFeC">
     <img height="150" src="https://i.imgur.com/8V0x5aB.png" alt="Banner Dev"/>
   </a>
 </div>
@@ -96,8 +96,8 @@
 
 <div align="center">
   <a href="https://github.com/GuiFeC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiFeC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFeC&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
