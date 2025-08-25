@@ -1,8 +1,6 @@
 <div align="center">
-  <a href="https://github.com/GuiFeC">
-    <img height="150" src="<div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>" alt="Banner Dev"/>
+</div>
   </a>
 </div>
 
