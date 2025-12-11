@@ -1,104 +1,43 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-  </a>
-</div>
+# Hi there, I'm Guilherme Cavalcante! 👋
 
-<h1 align="center">Olá, eu sou o Guilherme Cavalcante 👋</h1>
-<p align="center">
-  <em>Um entusiasta de tecnologia transformando café em código e dados em soluções!</em>
-</p>
+### 👨‍💻 Full-Stack Developer Trainee | 📊 Data Science Researcher | ☁️ AWS Certified
 
----
+I'm an Information Systems undergraduate at **UFAC** (Brazil), currently building scalable web applications at **Motorola's WebAcademy** and conducting data science research for public policies.
 
-### 👨‍💻 Sobre Mim
-
-<p>
-  Sou estudante de <strong>Sistemas de Informação</strong> na <strong>Universidade Federal do Acre (UFAC)</strong>, apaixonado por desenvolvimento e pelo poder dos dados para gerar impacto social.
-</p>
-
-<ul>
-  <li>
-    🚀 Atualmente, estou aprimorando minhas habilidades como desenvolvedor full-stack no <strong>Projeto Web Academy</strong>, uma incrível parceria entre a <strong>Motorola</strong> e a <strong>UFAC</strong>.
-  </li>
-  <li>
-    📊 Também estou me aprofundando em <strong>Ciência de Dados Aplicada às Políticas Públicas</strong>, buscando utilizar a tecnologia para resolver problemas complexos e relevantes.
-  </li>
-  <li>
-    💡 Tenho grande interesse em criar aplicações web eficientes e analisar dados para extrair insights valiosos.
-  </li>
-</ul>
+- 🔭 **I’m currently working on:** Microservices with Spring Boot & Angular.
+- 🔬 **I’m researching:** Food Insecurity & Social Vulnerability (Data Science/ETL).
+- 🌱 **I’m currently learning:** Cloud Computing (AWS) & Advanced Java.
+- 💼 **Experience:** Intern at UFAC (CRMP) & WebAcademy Trainee.
+- 💬 **Ask me about:** Java, TypeScript, Python (Pandas), and AWS.
 
 ---
 
-### 📫 Conecte-se Comigo
+### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/guilherme-cavalcante-a82b27167/]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:guif.cavalcante@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  </p>
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
----
+**Backend & Database**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-### 🛠️ Ferramentas e Tecnologias
+**Frontend**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
-<p>
-  Estas são algumas das tecnologias com as quais tenho trabalhado:
-</p>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="150">
-      <strong>Linguagens</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-    </td>
-    <td align="center" width="150">
-      <strong>Front-End</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
-    </td>
-    <td align="center" width="150">
-      <strong>Back-End</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <strong>Banco de Dados</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-    </td>
-    <td align="center" width="150">
-      <strong>Ciência de Dados</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-    </td>
-    <td align="center" width="150">
-      <strong>Ferramentas</strong><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-    </td>
-  </tr>
-</table>
+**DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/GuiFeC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiFeC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFeC&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cavalcante-a82b27167) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guif.cavalcante@gmail.com)
