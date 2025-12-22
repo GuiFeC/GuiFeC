@@ -1,14 +1,11 @@
-# Hi there, I'm Guilherme Cavalcante! 👋
+### 🧐 About:
 
-### 👨‍💻 Full-Stack Developer Trainee | 📊 Data Science Researcher | ☁️ AWS Certified
+@@ I'm a Full-Stack Developer & Data Science Researcher @@
 
-I'm an Information Systems undergraduate at **UFAC** (Brazil), currently building scalable web applications at **Motorola's WebAcademy** and conducting data science research for public policies.
-
-- 🔭 **I’m currently working on:** Microservices with Spring Boot & Angular.
-- 🔬 **I’m researching:** Food Insecurity & Social Vulnerability (Data Science/ETL).
-- 🌱 **I’m currently learning:** Cloud Computing (AWS) & Advanced Java.
-- 💼 **Experience:** Intern at UFAC (CRMP) & WebAcademy Trainee.
-- 💬 **Ask me about:** Java, TypeScript, Python (Pandas), and AWS.
++ Living in Rio Branco, Acre, Brazil 🇧🇷
+- 21 years old (Information Systems Student @ UFAC)
+! Java/Spring Boot Developer @ Motorola WebAcademy
+# Interested in Microservices, Cloud Computing (AWS) and Data Analytics
 
 ---
 
