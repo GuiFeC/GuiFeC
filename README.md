@@ -1,5 +1,6 @@
 ### 🧐 About:
 
+```diff
 @@ I'm a Full-Stack Developer & Data Science Researcher @@
 
 + Living in Rio Branco, Acre, Brazil 🇧🇷
