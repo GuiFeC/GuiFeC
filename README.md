@@ -1,12 +1,12 @@
-### 🧐 About:
+### 🧐 About Me:
 
 ```diff
-@@ I'm a Full-Stack Developer & Data Science Researcher @@
+@@ Full-Stack Developer | AI Researcher | Serious Games Dev @@
 
-+ Living in Rio Branco, Acre, Brazil 🇧🇷
-- 21 years old (Information Systems Student @ UFAC)
-! Java/Spring Boot Developer @ Motorola WebAcademy
-# Interested in Microservices, Cloud Computing (AWS) and Data Analytics
++ Building an Asset Management System (Java/Spring & Angular)
+! Researching AI for Amazonian Tourism (DataTur-AI Project)
+- Developing Serious Games for Food Security with Godot (ELOS Project)
+# Passionate about Accessibility, Cloud Computing (AWS) and Social Tech.
 ```
 
 ---
@@ -36,6 +36,10 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
 ---
+
+📊 GitHub Stats
+
+<div align="center"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DGuiFeC%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DGuiFeC%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/> </div>
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cavalcante-a82b27167) 
