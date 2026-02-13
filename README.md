@@ -1,12 +1,11 @@
 ### 🧐 About Me:
 
 ```diff
-@@ Full-Stack Developer | AI Researcher | Serious Games Dev @@
+@@ Full-Stack Developer | AI Researcher
 
 + Building an Asset Management System (Java/Spring & Angular)
 ! Researching AI for Amazonian Tourism (DataTur-AI Project)
-- Developing Serious Games for Food Security with Godot (ELOS Project)
-# Passionate about Accessibility, Cloud Computing (AWS) and Social Tech.
+# Passionate about Accessibility and Social Tech.
 ```
 
 ---
