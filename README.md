@@ -133,13 +133,18 @@ My academic experience includes:
 
 <div align="center">
 
+<div align="center">
+
 ## Connect with me
 
-<a href="www.linkedin.com/in/guilherme-cavalcante-a82b27167">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/guilherme-cavalcante-a82b27167" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="http://lattes.cnpq.br/3416104383970740">
-  <img src="https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=academia&logoColor=white">
+<a href="http://lattes.cnpq.br/3416104383970740" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes">
+</a>
+<a href="mailto:guif.cavalcante@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <br><br>
